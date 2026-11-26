@@ -1,0 +1,12 @@
+{
+  "target_volume": 1000.0,
+  "unit": "uL",
+  "tolerance_percent": 1.0,
+  "max_cv_percent": 0.5,
+  "measurements": [
+    {"mass_g": 0.9985, "temperature_c": 21.0},
+    {"mass_g": 0.9991, "temperature_c": 21.2},
+    {"mass_g": 0.9979, "temperature_c": 21.1},
+    {"mass_g": 0.9988, "temperature_c": 21.3}
+  ]
+}
